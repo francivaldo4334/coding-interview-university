@@ -16,39 +16,6 @@
 
 **Tradutores**: [Marlon Aviz](https://github.com/avizmarlon) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=avizmarlon)), [marceloogeda](https://github.com/marceloogeda) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=marceloogeda)), [laris151](https://github.com/laris151) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=laris151))
 
-Traduções:
-- [Bahasa Indonesia](translations/README-id.md)
-- [Bulgarian](translations/README-bg.md)
-- [Español](translations/README-es.md)
-- [German](translations/README-de.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Polish](translations/README-pl.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Russian](translations/README-ru.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](tanslations/README-ur.md)
-- [Uzbek](translations/README-uz.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [中文版本](translations/README-cn.md)
-- [繁體中文](translations/README-tw.md)
-
-Traduções em progresso:
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-
 <div align="center">
 	<hr />
     <p>
